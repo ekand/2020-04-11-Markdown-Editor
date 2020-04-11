@@ -1,3 +1,20 @@
+# A Very Very Basic Markdown Editor and Compiler
+
+I built this as part of the Mintbean Hackathon on 2020-04-11, following a tutorial about [showdownjs](https://github.com/showdownjs/showdown/wiki/Tutorial:-Markdown-editor-using-Showdown).
+
+I had to make some changes to the instructions, probably because things have been updated. If you'd like help figuring out how to do this, feel free to email me at [erik@ekand.io](mailto:erik@ekand.io).
+
+The site is live on [Github pages](https://ekand.github.io/2020-04-11-Markdown-Editor/).
+
+
+
+
+
+
+
+
+# The below is the original information from the hackathon
+
 # Today's Objective: Markdown Editor
 
 ## Prize
