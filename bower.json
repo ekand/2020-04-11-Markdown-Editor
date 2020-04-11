@@ -1,0 +1,24 @@
+{
+  "name": "try-showdown-tutorial",
+  "authors": [
+    "Erik Kristofer Anderson <erik.kristofer.anderson@gmail.com>"
+  ],
+  "description": "just trying this",
+  "main": "bower.json",
+  "keywords": [
+    "none"
+  ],
+  "license": "MIT",
+  "homepage": "none",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "showdown": "^1.9.1"
+  }
+}
